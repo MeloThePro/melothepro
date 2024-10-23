@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 im a cool man i suck at coding heelp
 
 <!--
 **MeloThePro/melothepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
